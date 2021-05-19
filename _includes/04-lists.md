@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### A few of my favorite things are:
+* Longboarding
+* Sports
+* Pizza
