@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### A few of my skills include:
+* *C++ **programming***
+* *Jira __Software__*
+* *GitHub*
